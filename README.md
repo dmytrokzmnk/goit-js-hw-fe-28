@@ -25,7 +25,7 @@
     <a href="https://dmytrokzmnk.github.io/goit-js-hw-fe-28/goit-js-hw-08/">goit-js-hw-08</a>
    </li>
    <li>
-    <a href="https://dmytrokzmnk.github.io/goit-js-hw-fe-28/goit-js-hw-10-food-service/">goit-js-hw-10-food-service</a>
+    <a href="https://dmytrokzmnk.github.io/goit-js-hw-fe-28/goit-js-hw-10-food-service/src/">goit-js-hw-10-food-service</a>
    </li>
    <li>
     <a href="https://dmytrokzmnk.github.io/goit-js-hw-fe-28/goit-js-hw-11-color-switch/">goit-js-hw-11-color-switch</a>
@@ -37,9 +37,9 @@
     <a href="https://dmytrokzmnk.github.io/goit-js-hw-fe-28/goit-js-hw-11-timer/">goit-js-hw-11-timer</a>
    </li>
    <li>
-    <a href="https://dmytrokzmnk.github.io/goit-js-hw-fe-28/goit-js-hw-12-countries/">goit-js-hw-12-countries</a>
+    <a href="https://dmytrokzmnk.github.io/goit-js-hw-fe-28/goit-js-hw-12-countries/src/">goit-js-hw-12-countries</a>
    </li>
    <li>
-    <a href="https://dmytrokzmnk.github.io/goit-js-hw-fe-28/goit-js-hw-13-image-finder/">goit-js-hw-13-image-finder</a>
+    <a href="https://dmytrokzmnk.github.io/goit-js-hw-fe-28/goit-js-hw-13-image-finder/src/">goit-js-hw-13-image-finder</a>
    </li>
 </ul>
